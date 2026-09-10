@@ -1,0 +1,17 @@
+{
+  "name": "genpark-viterbi-convolutional-codec-engine-skill",
+  "version": "1.0.0",
+  "description": "Convolutional encoder and Viterbi trellis dynamic programming maximum-likelihood path decoder for noisy communication channels.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "viterbi-decoder",
+    "convolutional-code",
+    "trellis-diagram",
+    "dynamic-programming",
+    "channel-coding"
+  ],
+  "dependencies": []
+}
